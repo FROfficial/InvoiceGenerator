@@ -1,0 +1,1 @@
+This application is rather basic and generate pdfs for a housekeeping business.
